@@ -212,7 +212,7 @@ function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center p-4 bg-gradient-to-br from-blue-100 to-purple-100">
       <h1 className="text-4xl font-bold mb-4 text-indigo-800">
-        🧵 T-Shirt Designer
+        🧵 T-Shirt Designers
       </h1>
 
       <div className="flex gap-4 mb-4">
